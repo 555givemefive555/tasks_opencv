@@ -3,12 +3,6 @@ __pycache__/
 venv/
 ./venv
 
-*.mp4
-*.avi
-*.mov
-frames/
-scaled
-
 build/
 *.o
 *.exe
